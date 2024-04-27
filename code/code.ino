@@ -10,7 +10,6 @@
 #define BDIR1 5
 #define BDIR2 8
 
-//#define Speed 255
 bool isSpeed=false;
 
 unsigned int Speed=50;
