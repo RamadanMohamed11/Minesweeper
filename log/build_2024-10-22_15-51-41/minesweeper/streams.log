@@ -1,0 +1,35 @@
+[1.072s] Invoking command in '/home/ramadan/colcon_ws/build/minesweeper': PYTHONPATH=/home/ramadan/colcon_ws/build/minesweeper/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ramadan/colcon_ws/install/minesweeper/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/ramadan/colcon_ws/build/minesweeper/build
+[1.512s] running develop
+[1.523s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.523s]   warnings.warn(
+[1.771s] Removing /home/ramadan/colcon_ws/install/minesweeper/lib/python3.10/site-packages/minesweeper.egg-link (link to .)
+[1.793s] Invoked command in '/home/ramadan/colcon_ws/build/minesweeper' returned '0': PYTHONPATH=/home/ramadan/colcon_ws/build/minesweeper/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ramadan/colcon_ws/install/minesweeper/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/ramadan/colcon_ws/build/minesweeper/build
+[1.794s] Invoking command in '/home/ramadan/colcon_ws/src/minesweeper': PYTHONPATH=/home/ramadan/colcon_ws/build/minesweeper/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ramadan/colcon_ws/install/minesweeper/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/minesweeper build --build-base /home/ramadan/colcon_ws/build/minesweeper/build install --record /home/ramadan/colcon_ws/build/minesweeper/install.log --single-version-externally-managed
+[2.193s] running egg_info
+[2.194s] writing ../../build/minesweeper/minesweeper.egg-info/PKG-INFO
+[2.194s] writing dependency_links to ../../build/minesweeper/minesweeper.egg-info/dependency_links.txt
+[2.194s] writing entry points to ../../build/minesweeper/minesweeper.egg-info/entry_points.txt
+[2.194s] writing requirements to ../../build/minesweeper/minesweeper.egg-info/requires.txt
+[2.194s] writing top-level names to ../../build/minesweeper/minesweeper.egg-info/top_level.txt
+[2.196s] reading manifest file '../../build/minesweeper/minesweeper.egg-info/SOURCES.txt'
+[2.205s] writing manifest file '../../build/minesweeper/minesweeper.egg-info/SOURCES.txt'
+[2.205s] running build
+[2.205s] running build_py
+[2.205s] copying minesweeper/joystick_subscriber.py -> /home/ramadan/colcon_ws/build/minesweeper/build/lib/minesweeper
+[2.205s] copying minesweeper/joystick_publisher.py -> /home/ramadan/colcon_ws/build/minesweeper/build/lib/minesweeper
+[2.206s] running install
+[2.206s] running install_lib
+[2.207s] creating /home/ramadan/colcon_ws/install/minesweeper/lib/python3.10/site-packages/minesweeper
+[2.207s] copying /home/ramadan/colcon_ws/build/minesweeper/build/lib/minesweeper/__init__.py -> /home/ramadan/colcon_ws/install/minesweeper/lib/python3.10/site-packages/minesweeper
+[2.207s] copying /home/ramadan/colcon_ws/build/minesweeper/build/lib/minesweeper/joystick_subscriber.py -> /home/ramadan/colcon_ws/install/minesweeper/lib/python3.10/site-packages/minesweeper
+[2.207s] copying /home/ramadan/colcon_ws/build/minesweeper/build/lib/minesweeper/joystick_publisher.py -> /home/ramadan/colcon_ws/install/minesweeper/lib/python3.10/site-packages/minesweeper
+[2.209s] byte-compiling /home/ramadan/colcon_ws/install/minesweeper/lib/python3.10/site-packages/minesweeper/__init__.py to __init__.cpython-310.pyc
+[2.209s] byte-compiling /home/ramadan/colcon_ws/install/minesweeper/lib/python3.10/site-packages/minesweeper/joystick_subscriber.py to joystick_subscriber.cpython-310.pyc
+[2.210s] byte-compiling /home/ramadan/colcon_ws/install/minesweeper/lib/python3.10/site-packages/minesweeper/joystick_publisher.py to joystick_publisher.cpython-310.pyc
+[2.211s] running install_egg_info
+[2.214s] Copying ../../build/minesweeper/minesweeper.egg-info to /home/ramadan/colcon_ws/install/minesweeper/lib/python3.10/site-packages/minesweeper-0.0.0-py3.10.egg-info
+[2.215s] running install_scripts
+[2.249s] Installing joystick_publisher script to /home/ramadan/colcon_ws/install/minesweeper/lib/minesweeper
+[2.249s] Installing joystick_subscriber script to /home/ramadan/colcon_ws/install/minesweeper/lib/minesweeper
+[2.249s] writing list of installed files to '/home/ramadan/colcon_ws/build/minesweeper/install.log'
+[2.269s] Invoked command in '/home/ramadan/colcon_ws/src/minesweeper' returned '0': PYTHONPATH=/home/ramadan/colcon_ws/build/minesweeper/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ramadan/colcon_ws/install/minesweeper/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/minesweeper build --build-base /home/ramadan/colcon_ws/build/minesweeper/build install --record /home/ramadan/colcon_ws/build/minesweeper/install.log --single-version-externally-managed

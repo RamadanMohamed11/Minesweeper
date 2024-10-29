@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing minesweeper.egg-info/PKG-INFO
+writing dependency_links to minesweeper.egg-info/dependency_links.txt
+writing entry points to minesweeper.egg-info/entry_points.txt
+writing requirements to minesweeper.egg-info/requires.txt
+writing top-level names to minesweeper.egg-info/top_level.txt
+reading manifest file 'minesweeper.egg-info/SOURCES.txt'
+writing manifest file 'minesweeper.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ramadan/colcon_ws/install/minesweeper/lib/python3.10/site-packages/minesweeper.egg-link (link to .)
+Installing joystick_publisher script to /home/ramadan/colcon_ws/install/minesweeper/lib/minesweeper
+Installing joystick_subscriber script to /home/ramadan/colcon_ws/install/minesweeper/lib/minesweeper
+
+Installed /home/ramadan/colcon_ws/build/minesweeper
