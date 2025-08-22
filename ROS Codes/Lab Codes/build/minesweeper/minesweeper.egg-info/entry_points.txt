@@ -1,0 +1,8 @@
+[console_scripts]
+joystick_publisher = minesweeper.joystick_publisher:main
+joystick_subscriber = minesweeper.joystick_subscriber:main
+mine_detection_publisher = minesweeper.mine_detection_publisher:main
+mine_detection_subscriber = minesweeper.mine_detection_subscriber:main
+mine_mapping_publisher = minesweeper.mine_mapping_publisher:main
+mine_mapping_subscriber = minesweeper.mine_mapping_subscriber:main
+

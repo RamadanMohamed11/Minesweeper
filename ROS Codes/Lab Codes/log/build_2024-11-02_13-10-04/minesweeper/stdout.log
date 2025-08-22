@@ -1,0 +1,26 @@
+running egg_info
+writing ../../build/minesweeper/minesweeper.egg-info/PKG-INFO
+writing dependency_links to ../../build/minesweeper/minesweeper.egg-info/dependency_links.txt
+writing entry points to ../../build/minesweeper/minesweeper.egg-info/entry_points.txt
+writing requirements to ../../build/minesweeper/minesweeper.egg-info/requires.txt
+writing top-level names to ../../build/minesweeper/minesweeper.egg-info/top_level.txt
+reading manifest file '../../build/minesweeper/minesweeper.egg-info/SOURCES.txt'
+writing manifest file '../../build/minesweeper/minesweeper.egg-info/SOURCES.txt'
+running build
+running build_py
+copying minesweeper/mine_detection_subscriber.py -> /home/ramadan/colcon_ws/build/minesweeper/build/lib/minesweeper
+running install
+running install_lib
+copying /home/ramadan/colcon_ws/build/minesweeper/build/lib/minesweeper/mine_detection_subscriber.py -> /home/ramadan/colcon_ws/install/minesweeper/lib/python3.10/site-packages/minesweeper
+byte-compiling /home/ramadan/colcon_ws/install/minesweeper/lib/python3.10/site-packages/minesweeper/mine_detection_subscriber.py to mine_detection_subscriber.cpython-310.pyc
+running install_egg_info
+removing '/home/ramadan/colcon_ws/install/minesweeper/lib/python3.10/site-packages/minesweeper-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/minesweeper/minesweeper.egg-info to /home/ramadan/colcon_ws/install/minesweeper/lib/python3.10/site-packages/minesweeper-0.0.0-py3.10.egg-info
+running install_scripts
+Installing joystick_publisher script to /home/ramadan/colcon_ws/install/minesweeper/lib/minesweeper
+Installing joystick_subscriber script to /home/ramadan/colcon_ws/install/minesweeper/lib/minesweeper
+Installing mine_detection_publisher script to /home/ramadan/colcon_ws/install/minesweeper/lib/minesweeper
+Installing mine_detection_subscriber script to /home/ramadan/colcon_ws/install/minesweeper/lib/minesweeper
+Installing mine_mapping_publisher script to /home/ramadan/colcon_ws/install/minesweeper/lib/minesweeper
+Installing mine_mapping_subscriber script to /home/ramadan/colcon_ws/install/minesweeper/lib/minesweeper
+writing list of installed files to '/home/ramadan/colcon_ws/build/minesweeper/install.log'
